@@ -37,7 +37,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/sarah-rollins-sr/"><img src="https://img.shields.io/badge/-Aditya%20Sarah%20Rollins-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sarah-rollins-sr/"><img src="https://img.shields.io/badge/-Sarah%20Rollins-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:s.rollins751@gmail.com"><img src="https://img.shields.io/badge/-s.rollins751@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
