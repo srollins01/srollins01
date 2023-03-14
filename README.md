@@ -1,6 +1,6 @@
 ## Hi there!  👋<br> I'm Sarah, a full-stack web developer located in Tokyo.🗼
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;About Me <img width="150" height="150" src="https://user-images.githubusercontent.com/114258514/224978799-8c64a745-8327-4f4e-83b9-6e5f09fe95d6.png?raw=true">
 
 💡 &nbsp;I like to explore new technologies and discover new ways to use Ruby, CSS and Javascript.\
 🌱 I’m currently learning React and fine-tuning my JavaScript skills. <br>
@@ -23,6 +23,5 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=srollins01&layout=compact&exclude_lang=java+r&theme=vue-dark" >
-<img width="150" height="150" src="https://user-images.githubusercontent.com/114258514/224978799-8c64a745-8327-4f4e-83b9-6e5f09fe95d6.png?raw=true">
 
 
