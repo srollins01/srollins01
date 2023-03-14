@@ -1,4 +1,4 @@
-## 👋 &nbsp;Hi there! <br> I'm Sarah, a full-stack web developer located in Tokyo.🗼
+## &nbsp;Hi there!  👋<br> I'm Sarah, a full-stack web developer located in Tokyo.🗼
 
 ### 👨🏻‍💻 &nbsp;About Me
 
