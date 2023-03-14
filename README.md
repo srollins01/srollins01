@@ -7,9 +7,6 @@
 🌱 I’m currently learning React and fine-tuning my JavaScript skills. <br>
 👯 I’m looking to collaborate on new open-source projects.
 
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
 ### 🛠 &nbsp;Tech Stack
 
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-333333?style=flat&logo=ruby)&nbsp;
