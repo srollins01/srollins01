@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and discover new ways to use CSS and Javascript.\
+💡 &nbsp;I like to explore new technologies and discover new ways to use Ruby, CSS and Javascript.\
 💎 My skills: Ruby on Rails, HTML, CSS, JavaScript, Node.js, PostgreSQL, Git, Figma <br>
 🌱 I’m currently learning React and fine-tuning my JavaScript skills. <br>
 👯 I’m looking to collaborate on new open-source projects.
