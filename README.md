@@ -26,4 +26,6 @@
 ### ⚙️ &nbsp;GitHub Analytics
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=srollins01&layout=compact&exclude_lang=java+r&theme=vue-dark" >
 
-
+### 🛠 &nbsp;Contact Me
+- <a href="https://www.linkedin.com/in/sarah-rollins-sr/">LinkedIn</a>
+- <a href="https://srollins01.github.io/code-portfolio/">Portfolio</a>
