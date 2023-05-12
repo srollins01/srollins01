@@ -26,7 +26,6 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)&nbsp;
 
-<br>
 
 ### 💻 &nbsp;Find Me Here
 - <a href="https://www.linkedin.com/in/sarah-rollins-sr/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
