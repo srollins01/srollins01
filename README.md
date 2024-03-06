@@ -26,7 +26,7 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)&nbsp;
 
-###  💻 &nbsp;Ongoing Community Projects 
+###  🤝 &nbsp;Ongoing Community Projects 
 https://github.com/Paulette-Zaldivar-Flores/Friendster
 
 ###  🗨️ &nbsp;Find Me Here
