@@ -16,8 +16,8 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)&nbsp;
-![Slack](https://img.shields.io/badge/-Slack-333333?style=flat&logo=slack)&nbsp;\
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;  \
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
 ![Stimulus.js](https://img.shields.io/badge/-Stimulus-333333?style=flat&logo=stimulus)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
@@ -25,6 +25,7 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
 ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)&nbsp;
+
 
 ###  🤝 &nbsp;Ongoing Community Projects 
 https://github.com/Paulette-Zaldivar-Flores/Friendster   \
