@@ -34,4 +34,4 @@ https://github.com/ayau8/menternshift-backend
 
 ###  🗨️ &nbsp;Find Me Here
 - <a href="https://www.linkedin.com/in/sarah-rollins-sr/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-- <a href="https://srollins01.github.io/code-portfolio/">![Portfolio](https://img.shields.io/badge/-Portfolio-blueviolet?style=for-the-badge)</a>
+- <a href="https://sarah-rollins.me/">![Portfolio](https://img.shields.io/badge/-Portfolio-blueviolet?style=for-the-badge)</a>
