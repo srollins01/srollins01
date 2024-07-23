@@ -28,7 +28,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)&nbsp;
 
 
-###  🤝 &nbsp;Ongoing Community Projects 
+###  🤝 &nbsp;Community Projects 
 https://github.com/Paulette-Zaldivar-Flores/Friendster   \
 https://github.com/ayau8/menternshift-backend   
 
