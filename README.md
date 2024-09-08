@@ -29,6 +29,7 @@
 
 
 ###  🤝 &nbsp;Community Projects
+Contributor to the following projects:
 https://codesmash.studio/home    \
 https://www.aihe.me/    \
 https://github.com/Paulette-Zaldivar-Flores/Friendster   \
