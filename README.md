@@ -29,10 +29,19 @@
 
 
 ###  🤝 &nbsp;Community Projects
-Contributor to the following projects:    \
-https://codesmash.studio/home    \
-https://www.aihe.me/    \
-https://github.com/Paulette-Zaldivar-Flores/Friendster   \
+Contributor to the following projects:<br>
+
+<strong>CodeSmash</strong><br>
+https://codesmash.studio/home<br>
+
+<strong>Aihe</strong><br>
+https://www.aihe.me/<br>
+
+<strong>Friendster</strong><br>
+https://github.com/Paulette-Zaldivar-Flores/Friendster<br>
+
+<strong>MenternShift (Formerly 40 Commits Challenge)</strong><br>
+https://phdalberti.notion.site/40-Commits-Challenge-d9607be5ce474b50bfa456be52162842<br>
 https://github.com/ayau8/menternshift-backend   
 
 ###  🗨️ &nbsp;Find Me Here
