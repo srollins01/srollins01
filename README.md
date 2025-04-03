@@ -28,12 +28,14 @@
 ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS&logoColor=1572B6)&nbsp; 
 
 
-###  🤝 &nbsp;Community Projects
+###  🤝 &nbsp;Open Source Projects
 Contributor to the following projects:<br>
 
+#### Current:
 <strong>CodeSmash</strong><br>
 https://codesmash.studio/home<br>
 
+#### Past:
 <strong>Aihe</strong><br>
 https://www.aihe.me/<br>
 
