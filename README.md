@@ -2,13 +2,14 @@
 
 ### 👨🏻‍💻 &nbsp;About Me <img align="left" width="150" height="150" src="https://user-images.githubusercontent.com/114258514/224978799-8c64a745-8327-4f4e-83b9-6e5f09fe95d6.png?raw=true">
 🗼 Full-stack web developer located in Tokyo. \
-💡 I like to explore new technologies and discover new ways to use Ruby and JavaScript.\
+💡 I like to explore the latest tech and discover new ways to use it!\
 👯 I’m looking to collaborate on new open-source projects. \
 <br>
 <br>
 
 ### 🛠 &nbsp;Tech Stack
 
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-333333?style=flat&logo=ruby)&nbsp;
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp; 
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)&nbsp; 
