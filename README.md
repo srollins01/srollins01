@@ -35,10 +35,12 @@ Contributor to the following projects:<br>
 #### Current:
 <strong>CodeSmash</strong><br>
 https://codesmash.studio/home<br>
+https://github.com/immmersive<br>
 
 #### Past:
 <strong>Aihe</strong><br>
 https://www.aihe.me/<br>
+https://github.com/AiheApp/<br>
 
 <strong>Friendster</strong><br>
 https://github.com/Paulette-Zaldivar-Flores/Friendster<br>
